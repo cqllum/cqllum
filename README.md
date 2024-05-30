@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQGmttP72DO3Bg/article-cover_image-shrink_600_2000/0/1680626466929?e=2147483647&v=beta&t=wvRQeeJutsJA8E0zkFPz0xpu8DFJU5BrsrRdFCzYyNU" width="600" height="300"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*z76XqGEphiXy522fNjLlTQ.gif" width="600" height="300"/>
 </div>
 
 
