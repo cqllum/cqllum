@@ -2,7 +2,8 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Hello! I'm a Data Engineer and Business Intelligence Developer with a strong focus on real-time and batch data processing, software development, database administration, and building efficient data pipelines. I specialize in transforming raw data into actionable insights through the development of robust data pipelines, engaging web applications, and comprehensive dashboards for data visualization.
+    <p>Hello! I'm a Data Engineer and Business Intelligence Developer from the United Kingdom, with a strong focus on real-time and batch data processing, software development, database administration, and building efficient data pipelines. I specialize in transforming raw data into actionable insights through the development of robust data pipelines, engaging web applications, and comprehensive dashboards for data visualization.
+
 </p>
 </div>
 
@@ -11,12 +12,19 @@
 </div>
 
 
+<div align="center">
+    <h2>🎨 My Background</h2>
+    <p>With a background in web development and data analytics, my expertise includes creating sophisticated data processing scripts and pipelines, developing both frontend and backend web applications, and implementing advanced scripting and automation. I am also adept at designing advanced dashboards that offer deep insights and clear visualizations. I am dedicated to delivering high-quality, scalable solutions and continuously exploring innovative ways to leverage data.
+</p>
+</div>
+
+
 ---
 
 
 <div align="center">
     <h2>💻 Tech</h2>
-    <p>Take a look below and learn a bit more about my interests and skills
+    <p>Take a look below and learn a bit more about my skillset
 </p>
 </div>
 
