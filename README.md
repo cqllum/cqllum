@@ -23,15 +23,31 @@
 
 
 <div align="center">
-    <h2>💻 What am I currently working on?</h2>
+    <h2>🦾 What am I currently working on?</h2>
     <p>A real time CDC Data Replication process written in
         <img src="https://img.shields.io/badge/Go-black?logo=go"> to speedup data replication from traditional OLTP databases to a ClickHouse Data Warehouse.<br><br>
         <a href="https://github.com/cqllum/db2ch">View it here</a><br>
 </p>
 </div>
 
+
+----
+
 <div align="center">
-    <h2>💻 Tech</h2>
+    <h2>🖊️ Some things I've made</h2>
+    <p>A data warehouse schema creation tool powered by AI and
+        <img src="https://img.shields.io/badge/Python-black?logo=python"> to quickly create data structures using your databases Information schema & Google's <img src="https://img.shields.io/badge/-Gemini-black?style=flat-square&logo=googlegemini"><br>
+        <a href="https://github.com/cqllum/schema2dwh">View it here</a><br><br>
+    <p>A business website generator with full backend control, completely databaseless written in
+        <img src="https://img.shields.io/badge/PHP-black?logo=php"> to speedup creation of a website using pure PHP and JSON. Including themes, SEO and content control<br>
+        <a href="https://github.com/cqllum/php-website-generator">View it here</a><br>
+</p>
+</div>
+
+----
+
+<div align="center">
+    <h2>💻 Technical Skillset</h2>
     <p>Take a look below and learn a bit more about my skillset
 </p>
 </div>
