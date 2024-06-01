@@ -23,6 +23,14 @@
 
 
 <div align="center">
+    <h2>💻 What am I currently working on?</h2>
+    <p>A real time CDC Data Replication process written in
+        <img src="https://img.shields.io/badge/Go-black?logo=go"> to speedup data replication from traditional OLTP databases to a ClickHouse Data Warehouse.<br><br>
+        <a href="https://github.com/cqllum/db2ch">View it here</a><br>
+</p>
+</div>
+
+<div align="center">
     <h2>💻 Tech</h2>
     <p>Take a look below and learn a bit more about my skillset
 </p>
