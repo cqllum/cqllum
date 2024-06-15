@@ -42,6 +42,9 @@
     <p>A business website generator with full backend control, completely databaseless written in
         <img src="https://img.shields.io/badge/PHP-black?logo=php"> to speedup creation of a website using pure PHP and JSON. Including themes, SEO and content control<br>
         <a href="https://github.com/cqllum/php-website-generator">View it here</a><br>
+    <p>A secure single note sharing application written in Python (flask)
+        <img src="https://img.shields.io/badge/Python-black?logo=python"> to help share sensitive one time note data, allowing you to skip out on 3rd party solutions and avoid compromise.<br>
+        <a href="https://github.com/cqllum/private-note">View it here</a><br>
 </p>
 </div>
 
