@@ -74,7 +74,7 @@ Data Engineering, Frontend+Backend Web Development, API Development, ETL Develop
 ![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)
 ![PowerShell](https://img.shields.io/badge/PowerShell-black?logo=powershell)
 ![Java](https://img.shields.io/badge/Java-black?logo=openjdk)
-![Java](https://img.shields.io/badge/React-black?logo=react)
+![React](https://img.shields.io/badge/React-black?logo=react)
 ![Go](https://img.shields.io/badge/Go-black?logo=go)
 ![Perl](https://img.shields.io/badge/Perl-black?logo=perl)
 ![Lua](https://img.shields.io/badge/Lua-black?logo=lua)
