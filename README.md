@@ -20,6 +20,15 @@
 </div>
 
 
+<div align="center">
+    <h2>💡 Industry Exposure</h2>
+    <p>I have worked in, or have been heavily exposed in to the following industries:
+        <li>Gambling (iGaming), Ecommerce, Warehousing and Logistics, Cyber Security, Cloud Hosting, SaaS, Insurance, Construction, Telecommunications</li>
+        
+</p>
+</div>
+
+
 ---
 
 
