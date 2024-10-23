@@ -45,6 +45,9 @@
 
 <div align="center">
     <h2>🖊️ Some things I've made</h2>
+    <p>A real time web page classification and threat analysis application built with 
+        <img src="https://img.shields.io/badge/Python-black?logo=python"> and  <img src="https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka"><br>
+        <a href="https://github.com/cqllum/realtime-webpage-classification">View it here</a><br><br>
     <p>A data warehouse schema creation tool powered by AI and
         <img src="https://img.shields.io/badge/Python-black?logo=python"> to quickly create data structures using your databases Information schema & Google's <img src="https://img.shields.io/badge/-Gemini-black?style=flat-square&logo=googlegemini"><br>
         <a href="https://github.com/cqllum/schema2dwh">View it here</a><br><br>
