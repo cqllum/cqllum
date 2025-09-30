@@ -34,9 +34,9 @@
 
 <div align="center">
     <h2>🦾 What am I currently working on?</h2>
-    <p>A real time CDC Data Replication process written in
-        <img src="https://img.shields.io/badge/Go-black?logo=go"> to speedup data replication from traditional OLTP databases to a ClickHouse Data Warehouse.<br><br>
-        <a href="https://github.com/cqllum/db2ch">View it here</a><br>
+   <p>A distributed data storage replication/whitelabel app written in
+        <img src="https://img.shields.io/badge/Flask-black?logo=flask"> to cut costs on data storage by uniting several free solutions<br><br>
+        <a href="https://github.com/cqllum/CloudStore">View it here</a><br>
 </p>
 </div>
 
@@ -57,6 +57,9 @@
     <p>A secure single note sharing application written in Python (flask)
         <img src="https://img.shields.io/badge/Python-black?logo=python"> to help share sensitive one time note data, allowing you to skip out on 3rd party solutions and avoid compromise.<br>
         <a href="https://github.com/cqllum/private-note">View it here</a><br>
+</p> <p>A real time CDC Data Replication process written in
+        <img src="https://img.shields.io/badge/Go-black?logo=go"> to speedup data replication from traditional OLTP databases to a ClickHouse Data Warehouse.<br><br>
+        <a href="https://github.com/cqllum/db2ch">View it here</a><br>
 </p>
 </div>
 
@@ -179,7 +182,9 @@ Data Engineering, Frontend+Backend Web Development, API Development, ETL Develop
 ![Qemu](https://img.shields.io/badge/-Qemu-black?style=flat-square&logo=qemu)
 
 #### **🤖 AI**
+![AmazonQ](https://img.shields.io/badge/-AmazonQ-black?style=flat-square&logo=AmazonQ)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=flat-square&logo=openai)
+![Cursor](https://img.shields.io/badge/-Cursor-black?style=flat-square&logo=Cursor)
 ![Google Gemini](https://img.shields.io/badge/-Gemini-black?style=flat-square&logo=googlegemini)
 ![Copilot](https://img.shields.io/badge/-Copilot-black?style=flat-square&logo=microsoft)
 
